@@ -1,0 +1,17 @@
+{
+    "description": "Pipeline do detekcji i oceny kr\u0119gos\u0142upa l\u0119d\u017awiowego",
+    "yolo_classes": {
+        "0": "Vertebra",
+        "1": "Canal",
+        "2": "Disc"
+    },
+    "grading_classes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "author": "Tw\u00f3j Zesp\u00f3\u0142",
+    "date": "2026-01-16"
+}
